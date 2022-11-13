@@ -1,0 +1,30 @@
+#form2{
+    margin: 12%;
+}
+#heading{
+    text-align: center;
+    margin: 5%;
+    color:rgb(17, 87, 152);
+    font-style: italic;
+}
+
+
+#both{
+    margin: 10%;
+    text-align: center;
+    border: 50px solid white;
+}
+
+#user{
+    text-align: center;
+    
+    color: black;
+}
+#admin{
+    text-align: center;
+    color: red;
+}
+
+#body{
+    background-color:whitesmoke;
+}
